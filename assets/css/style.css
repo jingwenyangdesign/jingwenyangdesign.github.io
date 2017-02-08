@@ -1,5 +1,5 @@
 h1 {
-    color:lightseagreen;
+    color:#209E85;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -17,9 +17,11 @@ p{
 
 h4{
     margin: 20px 300px;
+    padding: 8px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
-    color: gray;
+    color: white;
+    background-color: #209E85;
 }
 
 p.projects{
@@ -29,6 +31,7 @@ img {
     display: block;
     margin: auto;
     width: 400px;
+    padding:10px;
 }
 
 #img_detail {
