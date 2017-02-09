@@ -10,13 +10,17 @@ h3 {
     color:black;
 }
 
+h3.homepage{
+    text-transform: uppercase;
+}
+
 p{
-    margin: 20px 200px;
+    margin: 20px 280px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 h4{
-    margin: 20px 300px;
+    margin: 20px 370px;
     padding: 8px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
