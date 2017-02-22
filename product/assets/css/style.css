@@ -1,0 +1,10 @@
+nav.navbar{
+    background:lightpink;
+    box-shadow: none;
+    border: none;
+}
+
+#me{
+    width:140px;
+    margin:10px;
+}
